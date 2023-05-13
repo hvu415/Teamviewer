@@ -1,0 +1,13 @@
+
+
+api token and group id is based on URL
+
+sudo /Applications/TeamViewerHost.app/Contents/Helpers/TeamViewer_Assignment -api-token 19564785-oJuT7yJq2g92G4Cu3U7X -group-id g126781591 
+
+
+sudo /Applications/TeamViewerHost.app/Contents/Helpers/TeamViewer_Assignment -api-token 19564785-oJuT7yJq2g92G4Cu3U7X -reassign -group-id g126781591
+
+
+
+
+
